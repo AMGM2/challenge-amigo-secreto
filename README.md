@@ -1,1 +1,2 @@
-# challenge-amigo-secreto_esp-main
+# challenge-amigo-secreto
+Hola aqui iniciare explicando las funcionalidades y cambios que hice
